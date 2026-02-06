@@ -18,7 +18,7 @@ public class Ejercicio2_Sumadora
         // TODO: Implementa la suma de a y b, y guarda el resultado
         int resultado = Sumar(numero1, numero2);
         // TODO: Retorna el texto "La suma es: X" donde X es el resultado
-        return "la suma es igual:" + resultado; //OJO: reemplaza este texto
+        return "La suma es: " + resultado; //OJO: reemplaza este texto
         throw new NotImplementedException();
     }
     
